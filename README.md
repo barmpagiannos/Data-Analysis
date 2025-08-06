@@ -2,7 +2,7 @@
 
 MATLAB implementations of practical data analysis tasks in manufacturing quality control, statistical inference, energy modeling, and vehicle performance analytics. The code combines classic statistics, visualizations, regression models, and curve fitting.
 
-Developed as part of coursework in **Data Analysis & Probability** at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki.
+Developed as part of coursework in **Data Analysis** at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki.
 
 ---
 
