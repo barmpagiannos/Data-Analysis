@@ -68,3 +68,11 @@ Explores relationships between vehicle **weight**, **horsepower**, and **fuel ec
 - 📉 Dual-axis plot to visualize both fitted models
 
 ---
+
+## ✍️ Author
+
+**Βασίλειος Μπαρμπαγιάννος**  
+Student at ECE AUTH – School of Electrical & Computer Engineering  
+AEM: 10685
+
+---
